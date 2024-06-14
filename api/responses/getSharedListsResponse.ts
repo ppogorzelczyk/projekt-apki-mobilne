@@ -1,0 +1,3 @@
+type GetSharedListsResponse = {
+  lists: List[];
+}

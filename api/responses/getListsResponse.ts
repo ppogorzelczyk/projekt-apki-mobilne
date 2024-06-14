@@ -1,0 +1,3 @@
+type GetListsResponse = {
+    lists: List[];
+}
